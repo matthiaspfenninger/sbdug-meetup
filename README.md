@@ -9,7 +9,7 @@ The content we make available here is approved to be redistributed by the speake
 Date: 8.7.2019
 
 Talks:
-- Reinforcement Learning: a gentle introduction and industrial application (Christian Hidber) _[slides not yet available]_
+- Reinforcement Learning: a gentle introduction and industrial application (Christian Hidber)
 - Revenue Forecasting and Store Location Planning at Migros (Bojan Skerlak)
 
 ## Contact
