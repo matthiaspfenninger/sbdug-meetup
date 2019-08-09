@@ -1,5 +1,5 @@
 # Swiss Big Data User Group Meetup
-This repository is used to share slides and content for the Swiss Big Data User Group (SBDUG) Meetup.
+This repository is used to share slides and content for the Swiss Big Data User Group (SBDUG). Register on the Meetup page if you want to participate in future events (don't worry, it's free) : https://www.meetup.com/de-DE/swiss-big-data/
 
 The content we make available here is approved to be redistributed by the speakers.
 
