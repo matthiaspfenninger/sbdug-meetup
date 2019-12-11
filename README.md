@@ -12,6 +12,15 @@ Talks:
 - Reinforcement Learning: a gentle introduction and industrial application (Christian Hidber)
 - Revenue Forecasting and Store Location Planning at Migros (Bojan Skerlak)
 
+### 23rd SBDUG Meetup: Learn How To Build a Knowledge Graph
+Date: 29.11.2019
+
+Talk: Learn How To Build a Knowledge Graph (Bob van Luijt)
+
+Additional material:
+- Video recording: https://youtu.be/hlG0vto2CdM
+- Website: https://www.semi.technology/
+
 ## Contact
 Do you have any questions? Would you like to help organizing the meetup by proposing speakers or venues? Or do you just want to have a chat?
 
